@@ -4,7 +4,7 @@
 Nginx → App → PostgreSQL
 
 ## Como rodar
-docker compose up -d --build
+docker compose up -d --build ou docker-compose up -d --build
 
 ## Tecnologias
 - Docker
